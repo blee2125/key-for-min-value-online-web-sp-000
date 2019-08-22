@@ -8,7 +8,7 @@ def key_for_min_value(name_hash)
     elsif number[2] < number[3]
       return object[2]
     else
-      return object[3]  
+      return object[3]
     end
   end
 end
